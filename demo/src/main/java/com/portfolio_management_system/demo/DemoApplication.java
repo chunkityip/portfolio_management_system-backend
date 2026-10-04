@@ -1,4 +1,4 @@
-package com.portfolio_holdings_tracker.demo;
+package com.portfolio_management_system.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
